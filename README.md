@@ -3,9 +3,9 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.8.
 
 Tasks:
-Format html as shown in image todo.png
-Create a button to delete a flight
-Replace the station code with the station name
+- Format html as shown in image todo.png
+- Create a button to delete a flight
+- Replace the station code with the station name
 
 ## Development server
 
